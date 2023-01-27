@@ -14,11 +14,11 @@ int main(){
 
 
             if(i==1 || i==n || j==1 || j==m){
-                cout<<"*";
+                cout<<"*";//for printing *
 
             }
             else
-            cout<<" ";//FOR PRINTING " "//
+            cout<<" ";//FOR PRINTING " "
         }
         cout<<endl;
     }
