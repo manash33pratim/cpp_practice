@@ -18,7 +18,7 @@ int main(){
 
             }
             else
-            cout<<" ";
+            cout<<" ";//FOR PRINTING " "
         }
         cout<<endl;
     }
